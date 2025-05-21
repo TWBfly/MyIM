@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="avatar_size60">60dp</dimen>
-    <dimen name="avatar_size30">30dp</dimen>
-    <dimen name="avatar_size10">10dp</dimen>
-    <dimen name="avatar_size15">15dp</dimen>
-    <dimen name="avatar_size20">20dp</dimen>
-</resources>
